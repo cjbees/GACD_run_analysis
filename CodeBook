@@ -1,4 +1,4 @@
-The raw data for run_analysis.R comes from the documentation in the HCI HAR Dataset. This describes in detail how data were obtained from smart devices recording 6 activities form 30 participants. 
+The raw data for run_analysis.R comes from the documentation in the HCI HAR Dataset. This describes in detail how data were obtained from smart devices recording 6 activities from 30 participants. Units are provided below.
 
 The X text, X train, Y test, Y train, activity labels, and subject identifiers, are used in run_analysis.R
 
